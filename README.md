@@ -22,3 +22,9 @@ Usage:
 
 Flags:
 ```
+
+# What's different here?
+
+I took the default created project and added a swift runnable [as shown in the docs](https://atmo.suborbital.dev/usage/creating-runnables#create-a-runnable):
+
+        > subo create runnable myswiftfunction --lang=swift
